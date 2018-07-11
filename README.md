@@ -1,4 +1,7 @@
 # hello-world
-My first repository ever
+Hoop&Ball Version 1
 
-I am trying to learn to work with GitHub
+# General design and parts
+
+
+# Software
